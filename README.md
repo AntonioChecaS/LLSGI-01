@@ -1,5 +1,5 @@
 # LLSGI-01
-##Primera practica LLSGI-01
+##Primera práctica LLSGI-01
 ###Archivo LLSGI-01.rtf
 
 En este primer archivo [LLSGI-01.rtf](https://github.com/AntonioChecaS/LLSGI-01/blob/master/LLSGI-01.rtf), he puesto *"Hola Mundo!"* como se haría en lenguaje **RTF** **(Rich Text Format)**.
