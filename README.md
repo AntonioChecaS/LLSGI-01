@@ -11,5 +11,5 @@ Para conocer este lengauje he visitado las siguientes páginas web:
 
 En este otro caso [LLSGI-01.PS](https://github.com/AntonioChecaS/LLSGI-01/blob/master/LLSGI-01.ps), he seguido utilizando el típico Hola Mundo! en leguaje PostScript.
 He buscando información en los siguientes enlaces:
-+[Wikipedia](https://es.wikipedia.org/wiki/PostScript).
-+[Paul Bourke Tutorial](http://paulbourke.net/dataformats/postscript).
++ [Wikipedia](https://es.wikipedia.org/wiki/PostScript).
++ [Paul Bourke Tutorial](http://paulbourke.net/dataformats/postscript).
