@@ -16,7 +16,7 @@ He buscando información en los siguientes enlaces:
 
 ###Archivo LLSGI-01.XML
 
-En este archivo [LLSGI-01.XML](https://github.com/AntonioChecaS/LLSGI-01/blob/master/LLSGI-01.XML), he seguido utilizando *"Hola Mundo!"* en lenguaje **XML Extensible Markup Language**.
+En este archivo [LLSGI-01.XML](https://github.com/AntonioChecaS/LLSGI-01/blob/master/LLSGI-01.XML), he seguido utilizando *"Hola Mundo!"* en lenguaje **XML (Extensible Markup Language)**.
 He buscando información en los siguientes enlaces:
 + [Wikipedia](https://es.wikipedia.org/wiki/Extensible_Markup_Language).
 + [Mundolinux.info](http://www.mundolinux.info/que-es-xml.htm).
@@ -24,7 +24,7 @@ He buscando información en los siguientes enlaces:
 ###Archivo LLSGI-01.HTML y LLSGI-01.CSS
 
 Estos dos últimos archivos son un conjunto que se complementan uno con el otro. El archivo **HTML** [LLSGI-01.HTML](https://github.com/AntonioChecaS/LLSGI-01/blob/master/LLSGI-01.html) **(HyperText Markup Language)** es la estructura y el texto que deseamos que salga por la pantalla. Yo he seguido utilizando *"Hola Mundo!"*.
-En el archivo **CSS** [LLSGI-01.CSS](https://github.com/AntonioChecaS/LLSGI-01/blob/master/LLSGI-01.css) **(cascading style sheets)**. En este se configura los estilos y las posiciones de las estructuras que hemos indicado en el archivo HTML.
+En el archivo **CSS** [LLSGI-01.CSS](https://github.com/AntonioChecaS/LLSGI-01/blob/master/LLSGI-01.css) **(Cascading Style Sheets)**. En este se configura los estilos y las posiciones de las estructuras que hemos indicado en el archivo HTML.
 He buscando información en los siguientes enlaces:
 ####HTML
 + [Wikipedia](https://es.wikipedia.org/wiki/HTML).
