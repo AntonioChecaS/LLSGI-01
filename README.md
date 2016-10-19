@@ -2,7 +2,7 @@
 ##Primera practica LLSGI-01
 ###Archivo LLSGI-01.rtf
 
-En este primer archivo [LLSGI-01.rtf](https://github.com/AntonioChecaS/LLSGI-01/blob/master/LLSGI-01.rtf), he puesto *"Hola Mundo!"* como se haría en lenguaje RTF cuyas iniciales significan **(Rich Text Format)**.
+En este primer archivo [LLSGI-01.rtf](https://github.com/AntonioChecaS/LLSGI-01/blob/master/LLSGI-01.rtf), he puesto *"Hola Mundo!"* como se haría en lenguaje RTF **(Rich Text Format)**.
 Para conocer este lenguaje he visitado las siguientes páginas web:
 + [Wikipedia](https://es.wikipedia.org/wiki/Rich_Text_Format).
 + [Biblioscape](http://www.biblioscape.com/rtf15_spec.htm).
@@ -16,15 +16,15 @@ He buscando información en los siguientes enlaces:
 
 ###Archivo LLSGI-01.XML
 
-En este archivo [LLSGI-01.XML](https://github.com/AntonioChecaS/LLSGI-01/blob/master/LLSGI-01.XML), he seguido utilizando *"Hola Mundo!"* en lenguaje **XML** que estas iniciales significan **Extensible Markup Language**.
+En este archivo [LLSGI-01.XML](https://github.com/AntonioChecaS/LLSGI-01/blob/master/LLSGI-01.XML), he seguido utilizando *"Hola Mundo!"* en lenguaje **XML Extensible Markup Language**.
 He buscando información en los siguientes enlaces:
 + [Wikipedia](https://es.wikipedia.org/wiki/Extensible_Markup_Language).
 + [Mundolinux.info](http://www.mundolinux.info/que-es-xml.htm).
 
 ###Archivo LLSGI-01.HTML y LLSGI-01.CSS
 
-Estos dos últimos archivos son un conjunto que se complementan uno con el otro. El archivo HTML [LLSGI-01.HTML](https://github.com/AntonioChecaS/LLSGI-01/blob/master/LLSGI-01.html) cuyas siglas significan **(HyperText Markup Language)** es la estructura y el texto que deseamos que salga por la pantalla. Yo he seguido utilizando *"Hola Mundo!"*.
-En el archivo [LLSGI-01.CSS](https://github.com/AntonioChecaS/LLSGI-01/blob/master/LLSGI-01.css) cuyas siglas significan **(cascading style sheets)**. En este se configura los estilos y las posiciones de las estructuras que hemos indicado en el archivo HTML.
+Estos dos últimos archivos son un conjunto que se complementan uno con el otro. El archivo HTML [LLSGI-01.HTML](https://github.com/AntonioChecaS/LLSGI-01/blob/master/LLSGI-01.html) **(HyperText Markup Language)** es la estructura y el texto que deseamos que salga por la pantalla. Yo he seguido utilizando *"Hola Mundo!"*.
+En el archivo [LLSGI-01.CSS](https://github.com/AntonioChecaS/LLSGI-01/blob/master/LLSGI-01.css) **(cascading style sheets)**. En este se configura los estilos y las posiciones de las estructuras que hemos indicado en el archivo HTML.
 He buscando información en los siguientes enlaces:
 ####HTML
 + [Wikipedia](https://es.wikipedia.org/wiki/HTML).
