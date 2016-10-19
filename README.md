@@ -26,13 +26,9 @@ He buscando información en los siguientes enlaces:
 En estos últimos archivos van los dos ya que se complementan uno al otro,en el archivo HTML [LLSGI-01.HTML](https://github.com/AntonioChecaS/LLSGI-01/blob/master/LLSGI-01.html) que las siglas significan **(HyperText Markup Language)**, en este archivo es la estructura y el texto que deseamos que salga por pantalla, yo he seguido utilizando *Hola Mundo!*.
 En el archivo [LLSGI-01.CSS](https://github.com/AntonioChecaS/LLSGI-01/blob/master/LLSGI-01.css) que las siglas significan **(cascading style sheets)**, en este otro archivo se configura los estilos y las posiciones de las estructuras que hemos indicado en el archivo HTML.
 He buscando información en los siguientes enlaces:
-
 ####HTML
-
 + [Wikipedia](https://es.wikipedia.org/wiki/HTML).
 + [w3schools](http://www.w3schools.com/html).
-
 ####CSS
-
 + [Wikipedia](https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada).
-+ [w3schools](http://www.w3schools.com/css/).
++ [w3schools](http://www.w3schools.com/css).
